@@ -8,5 +8,5 @@ print("Exemplo de tupla: ", coordenada_xy)
 
 #print("Tipo de uma tupla: ", type(coordenada))
 
-latlon_bh = (-19.8157, -43.9542)
-print("Outro exemplo de criação de tupla: ", latlon_bh)
+bh = (-19.8157, -43.9542)
+print("Outro exemplo de criação de tupla: ", bh)
